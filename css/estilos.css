@@ -151,6 +151,9 @@ footer div{
     font-size: 14px;
     color: #b8b5b4;
 }
+.contact {
+    color: var(--green-color);
+}
 
 /* ------------------ /footer */
 /* /######---productos---####### */
